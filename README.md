@@ -14,4 +14,3 @@ Flow: Home Page > View all Customers > Select and View one Customer > Transfer M
 
 TO RUN PROJECT save the project in c/xampp/htdocs/ open xampp server. Start Apache and Mysql open php my admin and import the sql file in that. open chrome localhost/projectname/index.php.
 
-Check my website here:https://wiltonsystem.000webhostapp.com/
